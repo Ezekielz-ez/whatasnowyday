@@ -25,7 +25,7 @@ I have added my best ideas to follow
 267 git remote add origin https://github.com/Ezekielz-ez/whatasnowyday.git
 268 git remote -v
 269 git push
-270 git push -u origin master
+//270 git push -u origin master
 
 271 git log
 272 git history
@@ -39,3 +39,5 @@ I have added my best ideas to follow
 Why does it have to snow with such horrifying intensity?
 “He that breaks a thing to find out what it is has left the path of wisdom.
 Good luck to solve this problem!!
+// editining agin for the third time
+this zed deal with it
