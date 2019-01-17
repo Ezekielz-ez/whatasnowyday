@@ -19,3 +19,8 @@
 276  git commit -m "added history file"
 277  git push
 278  history
+
+
+
+ Why does it have to snow with such horrifying intensity?
+ “He that breaks a thing to find out what it is has left the path of wisdom.”
